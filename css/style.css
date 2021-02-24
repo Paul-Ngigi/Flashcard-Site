@@ -1,0 +1,6 @@
+.js-clickable:hover{
+    text-decoration: underline;
+}
+#js-hidden{
+    display: none;
+}
