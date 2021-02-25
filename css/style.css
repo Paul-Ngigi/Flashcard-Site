@@ -22,9 +22,19 @@
     display: none;
 }
 .variable-click{
-    color: greenyellow;
+    color: hotpink;
 }
 .variable-click:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+#variable-n-hidden{
+    display: none;
+}
+.variable-n-click{
+    color: blue;
+}
+.variable-n-click:hover{
     text-decoration: underline;
     cursor: pointer;
 }
