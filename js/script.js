@@ -9,4 +9,8 @@ $(document).ready(function(){
         $("#operator-visible").slideToggle();
         $("#operator-hidden").slideToggle();
     })
+    $(".variable-click").click(function(){
+        $("#variable-visible").slideToggle();
+        $("#variable-hidden").slideToggle();
+    })
 });
