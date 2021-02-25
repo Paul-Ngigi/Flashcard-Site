@@ -38,3 +38,13 @@
     text-decoration: underline;
     cursor: pointer;
 }
+#functions-hidden{
+    display: none;
+}
+.functions-click{
+    color: red;
+}
+.functions-click:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
