@@ -13,4 +13,8 @@ $(document).ready(function(){
         $("#variable-visible").slideToggle();
         $("#variable-hidden").slideToggle();
     })
+    $(".variable-n-click").click(function(){
+        $("#variable-n-visible").slideToggle();
+        $("#variable-n-hidden").slideToggle();
+    })
 });
