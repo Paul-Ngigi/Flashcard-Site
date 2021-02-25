@@ -17,4 +17,8 @@ $(document).ready(function(){
         $("#variable-n-visible").slideToggle();
         $("#variable-n-hidden").slideToggle();
     })
+    $(".functions-click").click(function(){
+        $("#functions-visible").slideToggle();
+        $("#functions-hidden").slideToggle();
+    })
 });
