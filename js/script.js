@@ -5,4 +5,8 @@ $(document).ready(function(){
         $('#js-hidden').slideToggle();
         $('#js-visible').slideToggle();
     });
+    $(".operator-click").click(function(){
+        $("#operator-visible").slideToggle();
+        $("#operator-hidden").slideToggle();
+    })
 });
