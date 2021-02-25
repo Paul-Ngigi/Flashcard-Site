@@ -48,3 +48,153 @@
     text-decoration: underline;
     cursor: pointer;
 }
+#Strings-hidden{
+    display: none;
+}
+.Strings-click{
+    color: orange;
+}
+.Strings-click:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+#Methods-hidden{
+    display: none;
+}
+.Methods-click{
+    color: violet;
+}
+.Methods-click:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+#Arguments-hidden{
+    display: none;
+}
+.Arguments-click{
+    color: black;
+}
+.Arguments-click:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+#Parameters-hidden{
+    display: none;
+}
+.Parameters-click{
+    color: indigo;
+}
+.Parameters-click:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+#Return-hidden{
+    display: none;
+}
+.Return-click{
+    color: maroon;
+}
+.Return-click:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+#Chaining-hidden{
+    display: none;
+}
+.Chaining-click{
+    color: burlywood;
+}
+.Chaining-click:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+#Strings-hidden{
+    display: none;
+}
+.Strings-click{
+    color: greenyellow;
+}
+.Strings-click:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+#Booleans-hidden{
+    display: none;
+}
+.Booleans-click{
+    color: fuchsia;
+}
+.Booleans-click:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+#Undefined-hidden{
+    display: none;
+}
+.Undefined-click{
+    color: springgreen;
+}
+.Undefined-click:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+#NaN-hidden{
+    display: none;
+}
+.NaN-click{
+    color: coral;
+}
+.NaN-click:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+#Escape-hidden{
+    display: none;
+}
+.Escape-click{
+    color: olivedrab;
+}
+.Escape-click:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+#Alert-hidden{
+    display: none;
+}
+.Alert-click{
+    color: aqua;
+}
+.Alert-click:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+#Comments-hidden{
+    display: none;
+}
+.Comments-click{
+    color: royalblue;
+}
+.Comments-click:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+#jQuery-hidden{
+    display: none;
+}
+.jQuery-click{
+    color: teal;
+}
+.jQuery-click:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+#Attributes-hidden{
+    display: none;
+}
+.Attributes-click{
+    color: indianred;
+}
+.Attributes-click:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
