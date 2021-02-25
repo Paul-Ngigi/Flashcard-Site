@@ -18,3 +18,13 @@
     text-decoration: underline;
     cursor: pointer;
 }
+#variable-hidden{
+    display: none;
+}
+.variable-click{
+    color: greenyellow;
+}
+.variable-click:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
