@@ -1,6 +1,20 @@
+.js-clickable{
+    color: gold;
+}
 .js-clickable:hover{
     text-decoration: underline;
+    cursor: pointer;
 }
 #js-hidden{
     display: none;
+}
+#operator-hidden{
+    display: none;
+}
+.operator-click{
+    color: greenyellow;
+}
+.operator-click:hover{
+    text-decoration: underline;
+    cursor: pointer;
 }
